@@ -6,7 +6,11 @@ Mini World
 ![Mini World](Mini-World.png)
 
 Policy for the Mini World using ADP technique
-![ADP-policy](policy.png)
+<p align="center">
+  <img src="policy.png" alt="Image Description" width="400" height="300" />
+</p>
 
-Policy for the Mini World using Q-Learning techinque
-![Q-Learning-Policy](q-learning-policy.png)
+Policy for the Mini World using the Q-Learning technique
+<p align="center">
+  <img src="q-learning-policy.png" alt="Image Description" width="400" height="300" />
+</p>

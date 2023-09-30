@@ -17,5 +17,5 @@ Policy for the Mini World using the Q-Learning technique
 
 Utility Matrix from the learning 
 <p align="center">
-  <img src="utility-matrix.png" alt="Image Description" width="400" height="300" />
+  <img src="utility-matrix.png" alt="Image Description" width="800" height="300" />
 </p>
